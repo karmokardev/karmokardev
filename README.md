@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">🤖–Backend Developer specializing in Laravel <br><br>📚–Build secure, high-performance, database-driven web applications<br><br>🎲–Always learning, improving, and creating better digital solutions</p>
+<p align="left">🤖–Backend Developer specializing in Laravel <br><br>📚–Build secure, high-performance, database web applications<br><br>🎲–Always learning, improving, and creating better digital solutions</p>
 
 ###
 
